@@ -1,0 +1,3 @@
+Kotlin语言最后要编译为class字节码，Java也是编译为class执行， 可以理解为kotlin要转成和Java一样的语法结构，kotlin是一种强大的语法糖而已
+
+理解kotlin语法 —— 转成Java语言
