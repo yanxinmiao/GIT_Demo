@@ -52,6 +52,11 @@ class Main5Activity : AppCompatActivity() , CoroutineScope {
 
             progress.visibility = View.GONE
         }
+
+        runBlocking {
+
+
+        }
     }
 
     override fun onDestroy() {
